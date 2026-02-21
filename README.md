@@ -1,4 +1,4 @@
-# APEX cam (Hackfest)
+# APEX cam (Nextgen2026)
 
 Android camera app that records high-speed video at **240 FPS** or **120 FPS**.
 
@@ -84,4 +84,5 @@ From Android Studio you can also use **Build → Build Bundle(s) / APK(s) → Bu
 
 High-speed capture (120/240fps) depends heavily on the device camera HAL.
 If 240fps at 1080p is not supported on your device, pick a smaller resolution or 120fps.
+
 
