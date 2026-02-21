@@ -1,0 +1,4 @@
+# Copy this file to local.properties and adjust sdk.dir for your machine.
+# Windows paths must escape backslashes as \\.
+
+sdk.dir=C:\\Users\\YOUR_USER\\AppData\\Local\\Android\\Sdk
